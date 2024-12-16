@@ -1,0 +1,35 @@
+﻿Actor,Sector ,Factor,Role,Level
+Land Owner-Forset Owners,Biomass,Forestry,Producer,Primary
+Holiday Home Owners,Cross-Cutting,Cross-Cutting,Consumer,Primary
+Residents,Cross-Cutting,Cross-Cutting,Consumer,Primary
+Land Owner-Farmer,Biomass,Agriculture,Producer,Primary
+Skjak Municpality,Cross-Cutting,Cross-Cutting,Coordination,Secondary
+Lom Municpality,Cross-Cutting,Cross-Cutting,Coordination,Secondary
+Sel Municipality,Cross-Cutting,Cross-Cutting,Coordination,Secondary
+Vågå Municpality,Cross-Cutting,Cross-Cutting,Coordination,Secondary
+NIBIO,Biomass,Cross-Cutting,Research and Development,Tertiary
+NIVA,Water,Water,Research and Development,Tertiary
+NINA,Cross-Cutting,Cross-Cutting,Research and Development,Tertiary
+NVE,Water,Water,Research and Development,Tertiary
+NVE,Energy,Energy,Research and Development,Tertiary
+GLB (Utility Owner's Association),Energy,Hydropower,Coordination,Secondary
+Hafslund Eco,Energy,Hydropower,Producer,Primary
+Farmers Association (Innalandent Bondelag),Biomass,Agriculture,Coordination,Secondary
+Eidefoss Eco,Energy,Hydropower,Producer,Primary
+Eidefoss Biovarme,Energy,Bioenergy,Producer,Primary
+Statcraft,Energy,Energy,Coordination,Secondary
+SINTEFF,Energy,Hydropower,Research and Development,Tertiary
+Forest Owners Asssociation,Biomass,Forestry,Coordination,Secondary
+Minstry of Energy,Cross-Cutting,Cross-Cutting,Coordination,Tertiary
+Ministry of Agriculture,Biomass,Agriculture,Coordination,Tertiary
+NTNU,Cross-Cutting,Cross-Cutting,Research and Development,Tertiary
+Uni of Oslo,Cross-Cutting,Cross-Cutting,Research and Development,Tertiary
+NMBU,Biomass,Cross-Cutting,Research and Development,Tertiary
+Innlandent County Governer's Office - Department of Forestry,Biomass,Forestry,Coordination,Secondary
+Innlandent County Governer's Office - Department of Agriculture,Biomass,Agriculture,Coordination,Secondary
+Skjak Adventures,Water,Water,Broker,Primary
+Brewery,Biomass,Agriculture,Broker,Primary
+Water Water Treatment Plant,Water,Water,Producer,Primary
+Skjak Eco,Energy,Hydropower,Producer,Primary
+Logging Companies,Biomass,Forestry,Broker,Primary
+Business Owners,Cross-Cutting,Cross-Cutting,Broker,Primary

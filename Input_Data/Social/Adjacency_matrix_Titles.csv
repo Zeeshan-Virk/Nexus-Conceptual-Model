@@ -1,0 +1,35 @@
+﻿,Land Owner-Forset Owners,Holiday Home Owners,Residents,Land Owner-Farmer,Skjak Municpality,Lom Municpality,Sel Municipality,Vågå Municpality,NIBIO,NIVA,NINA,NVE,NVE,GLB (Utility Owner's Association),Hafslund Eco,Farmers Association (Innalandent Bondelag),Eidefoss Eco,Eidefoss Biovarme,Statcraft,SINTEFF,Forest Owners Asssociation,Minstry of Energy,Ministry of Agriculture,NTNU,Uni of Oslo,NMBU,Innlandent County Governer's Office - Department of Forestry,Innlandent County Governer's Office - Department of Agriculture,Skjak Adventures,Brewery,Water /Waste Water Treatment Plant,Skjak Eco,Logging Companies,Business Owners
+Land Owner-Forset Owners,0,1,1,1,2,2,2,2,1,0,2,0,0,1,1,1,0,1,0,0,1,2,0,1,0,1,2,1,0,0,1,1,2,1
+Holiday Home Owners,1,0,1,0,2,2,2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,2,1,0,1
+Residents,1,1,0,1,2,2,2,2,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,2,1,0,2
+Land Owner-Farmer,2,1,1,0,2,2,2,2,1,0,0,0,0,1,1,2,0,2,2,1,0,0,0,0,0,2,1,2,0,2,2,1,1,1
+Skjak Municpality,2,1,1,2,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,2,2,2,1,2,1,1,2
+Lom Municpality,2,1,1,2,1,0,1,1,1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,1,0,2,2,0,1,2,1,1,2
+Sel Municipality,2,1,1,2,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,2,2,0,1,2,1,1,2
+Vågå Municpality,2,1,1,2,1,1,1,0,1,0,0,1,1,1,1,1,0,0,0,1,1,0,0,1,0,0,2,2,0,1,2,1,1,2
+NIBIO,1,0,0,1,1,1,1,1,0,1,2,2,1,0,0,1,1,0,0,0,0,0,0,0,0,1,2,2,0,1,0,0,1,0
+NIVA,1,0,0,1,1,1,1,1,2,0,1,1,2,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0
+NINA,1,0,0,1,1,1,1,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+NVE,1,0,0,1,1,1,1,1,2,2,0,0,0,2,1,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0
+NVE,1,0,0,1,1,1,1,1,2,2,0,0,0,2,1,0,0,2,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0
+GLB (Utility Owner's Association),1,0,1,1,2,2,2,2,1,2,1,2,2,0,2,1,1,0,2,1,0,0,1,0,1,1,1,1,1,0,2,2,0,0
+Hafslund Eco,0,1,1,1,1,2,2,2,0,1,0,2,1,2,0,0,0,1,2,2,0,0,0,1,2,1,0,0,1,0,1,1,0,1
+Farmers Association (Innalandent Bondelag),1,0,1,2,2,1,1,1,1,0,1,0,0,1,1,0,0,1,2,2,0,0,0,1,2,1,1,2,0,2,1,0,1,1
+Eidefoss Eco,0,1,1,1,1,0,2,2,0,1,0,2,1,2,2,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,1
+Eidefoss Biovarme,2,0,1,2,1,0,2,2,0,0,0,1,1,2,1,1,0,0,0,0,0,0,1,0,0,1,2,1,0,1,1,0,2,1
+Statcraft,0,1,1,1,2,1,1,2,0,1,0,2,1,2,2,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1
+SINTEFF,0,0,0,0,0,0,0,0,1,2,0,2,1,2,2,0,0,0,1,0,1,1,0,2,1,1,0,0,0,0,0,1,0,0
+Forest Owners Asssociation,2,0,1,1,1,1,1,1,1,0,2,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,2,1,0,0,0,0,2,1
+Minstry of Energy,2,0,0,0,1,0,0,0,1,2,0,2,2,1,1,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0
+Ministry of Agriculture,1,0,0,2,1,0,0,0,2,0,1,1,1,1,0,2,1,0,0,0,1,1,0,2,0,1,1,1,0,0,0,0,1,0
+NTNU,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,2,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0
+Uni of Oslo,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NMBU,0,0,1,1,0,0,0,0,1,1,2,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+Innlandent County Governer's Office - Department of Forestry,2,0,1,1,1,1,1,1,1,0,2,1,0,1,1,1,0,0,0,0,1,2,1,0,0,0,0,2,0,0,0,0,2,1
+Innlandent County Governer's Office - Department of Agriculture,1,0,1,2,1,1,1,1,1,0,1,1,0,1,1,2,1,0,1,0,1,1,0,1,0,1,2,0,0,1,0,0,1,1
+Skjak Adventures,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Brewery,0,0,0,2,2,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+Water/Waste- Water Treatment Plant,0,1,1,1,2,2,1,1,0,2,0,0,2,2,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,2
+Skjak Eco,0,1,1,1,2,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,0,0,1
+Logging Companies,2,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,1,0,2,1,1,1,0,1,2,1,0,0,0,0,0,1
+Business Owners,1,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0
