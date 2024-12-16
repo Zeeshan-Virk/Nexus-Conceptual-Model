@@ -1,0 +1,43 @@
+Sector EI Index:
+  Biomass: 0.216
+  Energy: 0.497
+  Cross-Cutting: 0.382
+  Water: 0.815
+
+Overall Network EI Index: 0.392
+
+Betweenness Centrality:
+  Node 0: 0.021
+  Node 1: 0.005
+  Node 2: 0.007
+  Node 3: 0.021
+  Node 4: 0.048
+  Node 5: 0.019
+  Node 6: 0.020
+  Node 7: 0.018
+  Node 8: 0.017
+  Node 9: 0.014
+  Node 10: 0.006
+  Node 11: 0.011
+  Node 12: 0.015
+  Node 13: 0.039
+  Node 14: 0.023
+  Node 15: 0.020
+  Node 16: 0.011
+  Node 17: 0.013
+  Node 18: 0.018
+  Node 19: 0.011
+  Node 20: 0.011
+  Node 21: 0.007
+  Node 22: 0.009
+  Node 23: 0.009
+  Node 24: 0.008
+  Node 25: 0.017
+  Node 26: 0.008
+  Node 27: 0.015
+  Node 28: 0.001
+  Node 29: 0.006
+  Node 30: 0.007
+  Node 31: 0.016
+  Node 32: 0.009
+  Node 33: 0.019
